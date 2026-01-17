@@ -1,0 +1,12 @@
+airport,airport_code,latitude,longitude,population_millions,city,country
+Indira Gandhi,DEL,28.5562,77.1000,561.43,Delhi,India
+Chhatrapati Shivaji,BOM,19.0896,72.8656,374.29,Mumbai,India
+Bangalore,BLR,13.1989,77.7068,224.57,Bangalore,India
+Netaji Subhas Chandra Bose,CCU,22.6546,88.4467,280.71,Kolkata,India
+Karachi,KHI,24.9065,67.1607,120.20,Karachi,Pakistan
+Islamabad,ISB,33.5607,72.8517,124.60,Islamabad,Pakistan
+Hazrat Shahjalal,DAC,23.8431,90.3978,174.70,Dhaka,Bangladesh
+Tribhuvan,KTM,27.6969,85.3594,30.90,Kathmandu,Nepal
+Colombo,CMB,7.1805,79.8841,22.16,Colombo,Sri Lanka
+Male,MLE,4.1918,73.5291,0.58,Male,Maldives
+Thimphu,PBH,27.4032,89.4246,0.77,Thimphu,Bhutan

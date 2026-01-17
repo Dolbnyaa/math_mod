@@ -1,0 +1,17 @@
+airport,airport_code,latitude,longitude,population_millions,city,country
+Heathrow,LHR,51.4700,-0.4543,67.00,London,UK
+Charles de Gaulle,CDG,49.0097,2.5479,67.39,Paris,France
+Frankfurt,FRA,50.0379,8.5622,83.24,Frankfurt,Germany
+Schiphol,AMS,52.3081,4.7642,17.53,Amsterdam,Netherlands
+Madrid-Barajas,MAD,40.4719,-3.5626,47.42,Madrid,Spain
+Fiumicino,FCO,41.8003,12.2389,58.85,Rome,Italy
+Sheremetyevo,SVO,55.9726,37.4146,146.70,Moscow,Russia
+Pulkovo,LED,59.8003,30.2625,6.00,St Petersburg,Russia
+Istanbul,IST,41.2622,28.7278,85.00,Istanbul,Turkey
+Vienna,VIE,48.1103,16.5697,9.00,Vienna,Austria
+Warsaw,WAW,52.1657,20.9671,38.00,Warsaw,Poland
+Athens,ATH,37.9364,23.9445,10.43,Athens,Greece
+Copenhagen,CPH,55.6180,12.6500,5.90,Copenhagen,Denmark
+Stockholm,ARN,59.6519,17.9186,10.42,Stockholm,Sweden
+Helsinki,HEL,60.3172,24.9633,5.56,Helsinki,Finland
+
